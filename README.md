@@ -10,7 +10,7 @@ I'm a passionate iOS Developer based in Bhubaneswar.
 
 ## About Me
 
-- 🔭 Currently working on [Khyaal](https://www.khyaal.com/).
+- 🔭 Currently working at [Khyaal](https://www.khyaal.com/).
 - 🌱 Learning Swift UI and Combine.
 - 📫 Reach me at: [Contact](sanjeebsamanta201@gmail.com)
 - 😄 Pronouns: He/Him
